@@ -17,7 +17,7 @@ If you're looking for a familiar and satisfying dining experience, **McDonald's*
 ## Location and Hours
 
 - **Address**: 13841 NE 20th St, Bellevue, WA 98005
-- **Phone**: [Insert Phone Number]
+- **Phone**: +14256430466
 - **Operating Hours**: 
   - Monday-Sunday: 24 hours
 
